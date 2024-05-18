@@ -1732,6 +1732,16 @@
      <texture>Link/gilded dagger2</texture>
     <source>(0,0,90,90)</source>
   </item>
+<!-- Link Dagger1 -->
+  <item id="1126" category="2">
+     <texture>Link/dagger1</texture>
+    <source>(0,0,90,90)</source>
+  </item>
+<!-- Link Venomed Dagger1 -->
+  <item id="1127" category="2">
+     <texture>Link/dagger2</texture>
+    <source>(0,0,90,90)</source>
+  </item>
 
 
 </data>
