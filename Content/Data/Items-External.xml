@@ -1702,5 +1702,15 @@
      <texture>Link/newcrossbow3</texture>
     <source>(0,0,90,90)</source>
   </item>
+<!-- Link Nocked Xbow3 -->
+  <item id="1122" category="2">
+     <texture>Link/upgradedbow1</texture>
+    <source>(0,0,90,90)</source>
+  </item>
+<!-- Link UnNocked Xbow3 -->
+  <item id="1123" category="2">
+     <texture>Link/upgradedbow2</texture>
+    <source>(0,0,90,90)</source>
+  </item>
 
 </data>
